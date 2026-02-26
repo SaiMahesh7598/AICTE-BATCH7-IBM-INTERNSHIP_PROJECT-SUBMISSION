@@ -1,0 +1,66 @@
+🟢  Software Requirements
+🔹 Programming Language
+
+Python 3.9 or above
+
+🔹 Framework
+
+Streamlit (for web application UI)
+
+ Library        Purpose              
+ 1.streamlit      Web interface creation  
+ 2.requests       API communication       
+ 3.pandas         Data handling           
+ 4.openai         AI itinerary generation 
+ 5.python-dotenv  Secure API key handling 
+ 6.matplotlib     Cost visualization      
+ 7.reportlab      PDF generation     
+   
+ 🟢  Hardware Requirements
+
+Minimum:
+
+1.Processor: Intel i3 / Ryzen 3 or above
+
+2.RAM: 4 GB minimum (8 GB recommended)
+
+3.Storage: 500 MB free space
+
+4.Internet connection (Required for APIs)
+
+🟢  API Requirements
+
+You must enable these in Google Cloud Console:
+
+🔹 Google APIs
+
+1.Places API
+
+2.Directions API
+
+🔹 OpenAI API
+
+GPT model access (e.g., gpt-4o-mini)
+
+🟢  System Requirements
+Operating System:
+
+1.Windows 10/11
+
+2.MacOS
+
+3.Linux
+
+4.Deployment Platform:
+
+5.Streamlit Cloud
+
+6.Localhost Server     
+
+🟢  Architecture Type
+
+1.Client-Server Architecture
+
+2.REST API based integration
+
+3.AI-assisted decision system
